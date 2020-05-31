@@ -7,9 +7,24 @@
 			<Cursor1 position="1539" topLine="57" />
 		</Cursor>
 	</File>
-	<File name="connexion_cote_client.cpp" open="1" top="1" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="devices_fusion.cpp" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="3545" topLine="15" />
+			<Cursor1 position="3487" topLine="92" />
+		</Cursor>
+	</File>
+	<File name="board_fusion.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="720" topLine="27" />
+		</Cursor>
+	</File>
+	<File name="core_simulation_fusion.h" open="1" top="1" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="86" topLine="108" />
+		</Cursor>
+	</File>
+	<File name="devices_fusion.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3239" topLine="95" />
 		</Cursor>
 	</File>
 	<File name="core_simulation_fusion.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -17,24 +32,9 @@
 			<Cursor1 position="6053" topLine="242" />
 		</Cursor>
 	</File>
-	<File name="core_simulation_fusion.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="connexion_cote_client.cpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="86" topLine="3" />
-		</Cursor>
-	</File>
-	<File name="devices_fusion.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="3487" topLine="125" />
-		</Cursor>
-	</File>
-	<File name="board_fusion.cpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="720" topLine="27" />
-		</Cursor>
-	</File>
-	<File name="devices_fusion.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="3239" topLine="98" />
+			<Cursor1 position="3545" topLine="15" />
 		</Cursor>
 	</File>
 </CodeBlocks_layout_file>
