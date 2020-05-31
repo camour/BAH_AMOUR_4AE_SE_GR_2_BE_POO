@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1590486755 source:c:\users\chadi\desktop\be_c++\serveur\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<WinSock2.h>
+	<Windows.h>
+	<sstream>
+	<string>
+	<fstream>
+
+1590922434 source:c:\users\chadi\desktop\be_c++\serveur\server.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<WinSock2.h>
+	<Windows.h>
+	<sstream>
+	<string>
+	<fstream>
+
+1590806015 source:c:\users\chadi\desktop\be_c++\serveur\connexion_cote_serveur.cpp
+	"connexion_cote_serveur.h"
+
+1590803496 c:\users\chadi\desktop\be_c++\serveur\connexion_cote_serveur.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<WinSock2.h>
+	<Windows.h>
+	"connexion_cote_serveur.h"
+	<sstream>
+	<string>
+	<fstream>
+

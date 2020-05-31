@@ -1,0 +1,125 @@
+# depslib dependency file v1.0
+1590891912 source:c:\users\chadi\desktop\be_c++\be_cpp_test_fusion\core_simulation_fusion.cpp
+	<thread>
+	<unistd.h>
+	<string.h>
+	"core_simulation_fusion.h"
+
+1590923141 c:\users\chadi\desktop\be_c++\be_cpp_test_fusion\core_simulation_fusion.h
+	<unistd.h>
+	<windows.h>
+	<iostream>
+	<string>
+	<thread>
+	<mutex>
+	<fstream>
+	<vector>
+	<algorithm>
+
+1590891044 source:c:\users\chadi\desktop\be_c++\be_cpp_test_fusion\devices_fusion.cpp
+	"devices_fusion.h"
+
+1590889925 c:\users\chadi\desktop\be_c++\be_cpp_test_fusion\devices_fusion.h
+	<iostream>
+	<thread>
+	<unistd.h>
+	<string.h>
+	"core_simulation_fusion.h"
+	<vector>
+	<cmath>
+	<conio.h>
+	<stdio.h>
+	<WinSock2.h>
+	<Windows.h>
+	<sstream>
+	<string>
+
+1590924518 source:c:\users\chadi\desktop\be_c++\be_cpp_test_fusion\sketch_ino_fusion.cpp
+	<unistd.h>
+	"core_simulation_fusion.h"
+
+1590924321 source:c:\users\chadi\desktop\be_c++\be_cpp_test_fusion\board_fusion.cpp
+	"core_simulation_fusion.h"
+	"devices_fusion.h"
+	"connexion_cote_client.h"
+
+1590922884 c:\users\chadi\desktop\be_c++\be_cpp_test_fusion\connexion_cote_client.h
+	<iostream>
+	<thread>
+	<unistd.h>
+	<string.h>
+	"core_simulation_fusion.h"
+	"devices_fusion.h"
+	<vector>
+	<conio.h>
+	<stdio.h>
+	<WinSock2.h>
+	<Windows.h>
+	<sstream>
+	<string>
+
+1590925829 source:c:\users\chadi\desktop\be_c++\be_cpp_test_fusion\connexion_cote_client.cpp
+	"connexion_cote_client.h"
+
+1590944363 source:c:\users\chadi\desktop\bah_amour_4ae_se_gr2\bah_amour_c++_systeme_acces_connecte\systeme_acces_connecte\board_fusion.cpp
+	"core_simulation_fusion.h"
+	"devices_fusion.h"
+	"connexion_cote_client.h"
+
+1590923141 c:\users\chadi\desktop\bah_amour_4ae_se_gr2\bah_amour_c++_systeme_acces_connecte\systeme_acces_connecte\core_simulation_fusion.h
+	<unistd.h>
+	<windows.h>
+	<iostream>
+	<string>
+	<thread>
+	<mutex>
+	<fstream>
+	<vector>
+	<algorithm>
+
+1590944088 c:\users\chadi\desktop\bah_amour_4ae_se_gr2\bah_amour_c++_systeme_acces_connecte\systeme_acces_connecte\devices_fusion.h
+	<iostream>
+	<thread>
+	<unistd.h>
+	<string.h>
+	"core_simulation_fusion.h"
+	<vector>
+	<cmath>
+	<conio.h>
+	<stdio.h>
+	<WinSock2.h>
+	<Windows.h>
+	<sstream>
+	<string>
+
+1590932992 c:\users\chadi\desktop\bah_amour_4ae_se_gr2\bah_amour_c++_systeme_acces_connecte\systeme_acces_connecte\connexion_cote_client.h
+	<iostream>
+	<thread>
+	<unistd.h>
+	<string.h>
+	"core_simulation_fusion.h"
+	"devices_fusion.h"
+	<vector>
+	<conio.h>
+	<stdio.h>
+	<WinSock2.h>
+	<Windows.h>
+	<sstream>
+	<string>
+
+1590944801 source:c:\users\chadi\desktop\bah_amour_4ae_se_gr2\bah_amour_c++_systeme_acces_connecte\systeme_acces_connecte\connexion_cote_client.cpp
+	"connexion_cote_client.h"
+
+1590891912 source:c:\users\chadi\desktop\bah_amour_4ae_se_gr2\bah_amour_c++_systeme_acces_connecte\systeme_acces_connecte\core_simulation_fusion.cpp
+	<thread>
+	<unistd.h>
+	<string.h>
+	"core_simulation_fusion.h"
+
+1590945974 source:c:\users\chadi\desktop\bah_amour_4ae_se_gr2\bah_amour_c++_systeme_acces_connecte\systeme_acces_connecte\sketch_ino_fusion.cpp
+	<unistd.h>
+	"core_simulation_fusion.h"
+
+1590944431 source:c:\users\chadi\desktop\bah_amour_4ae_se_gr2\bah_amour_c++_systeme_acces_connecte\systeme_acces_connecte\devices_fusion.cpp
+	"devices_fusion.h"
+
